@@ -20,13 +20,21 @@ To relax you when you are stressed, look very cool and high techy
 # BOM
 
 1 Battery holder
+
 1 10uF Capacitor
+
 1 NPN Transistor
+
 2 4.7k Resistor
+
 1 Potentiometer
+
 1 Push Button
+
 1 Vibrating Motor
+
 1 LED
+
 Made by @cyberbrainiac on slack
 
 
